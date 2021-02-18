@@ -1,0 +1,41 @@
+
+.topnavigation{   
+    background-color: black;
+    color: white;
+    font-size: smaller;
+    text-align-last: right;
+}
+.topnavigation span{
+    color: gold;
+}
+.title{
+    font-size: xx-large;/*looks better than large*/
+    font-weight: bold;/*looks better than normal weight*/
+}
+.box{
+    vertical-align: middle;
+}
+.menu{
+    background-color: gold;
+    text-transform: uppercase;  
+    text-align-last: left;
+}
+
+h2{
+    font-size: x-large;/*looks better than larger*/
+    font-weight: bold; /*did not look right */
+}
+.section_header{
+    font-weight: bold;
+    font-size: large;
+}
+p{
+    text-indent: 2ch;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: smaller;
+}
