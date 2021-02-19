@@ -6,6 +6,8 @@
 
 [Box Office](/Lab3/BoxOffice.html)
 Static webpage that lists some movies, their links on imdb and some info about the movies.
+
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
