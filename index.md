@@ -4,7 +4,7 @@
 
 ### CS3220 | Web And Internet Programming
 
-[Box Office](/Lab3/BoxOffice.html)
+[Box Office](/Lab3/BoxOffice.html) <br>
 <br>Static webpage that lists some movies, their links on imdb and some info about the movies. <br>
 
 
