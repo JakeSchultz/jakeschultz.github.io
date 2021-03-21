@@ -13,7 +13,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Zoom Link Organizer](/ZoomLinkOrganizer/ZoomLinksView.jsp)
+[Zoom Link Organizer](/ZoomLinkOrganizer/WEB-INF/ZoomLinksView.jsp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
