@@ -13,7 +13,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Zoom Link Organizer](/ZoomLinkOrganizer/ZoomLinksController)
+[Zoom Link Organizer]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
