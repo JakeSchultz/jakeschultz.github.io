@@ -1,4 +1,4 @@
-package cs3220.model;
+package ZoomLinkOrganizer.model;
  
 public class CourseEntry {
 	

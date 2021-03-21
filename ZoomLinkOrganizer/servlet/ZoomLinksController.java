@@ -1,4 +1,4 @@
-package cs3220.servlet;
+package ZoomLinkOrganizer.servlet;
 
 import java.io.IOException;
 import java.util.ArrayList;
