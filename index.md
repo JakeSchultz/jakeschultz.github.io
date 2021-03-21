@@ -13,7 +13,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/ZoomLinkOrganizer/ZoomLinksView.jsp)
+[Zoom Link Organizer](/ZoomLinkOrganizer/ZoomLinksView.jsp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
