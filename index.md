@@ -9,12 +9,12 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Flappy Bird with AI](https://github.com/JakeSchultz/FlappyBirdWithAI)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Zoom Link Organizer]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dFlappyBirdwithAI.PNG?raw=true"/>
 
 ---
 
