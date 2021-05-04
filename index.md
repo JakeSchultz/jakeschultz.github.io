@@ -11,6 +11,7 @@
 ---
 [Flappy Bird with AI](https://github.com/JakeSchultz/FlappyBirdWithAI)
 <img src="images/FlappyBirdwithAI.PNG"/>
+
 ---
 [Zoom Link Organizer]()
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
