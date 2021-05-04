@@ -15,7 +15,9 @@
 ---
 [Zoom Link Organizer]()
 <br>Dynamic web page that allows the user to enter course names and their zoom links to keep them organized<br>
+
 ---
+
 {% comment %}
 ### Category Name 2
 
