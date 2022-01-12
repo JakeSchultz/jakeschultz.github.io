@@ -18,7 +18,7 @@
 
 ---
 
-{% comment %}
+
 ### CS4555 | Introduction to 3D Computer Game Programming
 
 - [One More Day](https://simmer.io/@EagleGameStudio/onemoreday)
@@ -26,7 +26,7 @@
 <br>First Person Bullethell style shooter developed in Unity<br>
 
 ---
-
+{% comment %}
 {% endcomment %}
 
 
