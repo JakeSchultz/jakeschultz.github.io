@@ -19,13 +19,11 @@
 ---
 
 {% comment %}
-### Category Name 2
+### CS4555 | Introduction to 3D Computer Game Programming
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [One More Day](https://simmer.io/@EagleGameStudio/onemoreday)
+<img src = "images/OneMoreDay.png"/>
+<br>First Person Bullethell style shooter developed in Unity<br>
 
 ---
 
