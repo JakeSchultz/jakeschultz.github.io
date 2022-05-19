@@ -13,7 +13,7 @@
 <br>Static web page that lists some movies, their links on imdb and some info about the movies. <br>
 
 ---
-[Zoom Link Organizer]()
+[Zoom Link Organizer](https://github.com/JakeSchultz/ZoomLinkOrganizer)
 <br>Dynamic web page that allows the user to enter course names and their zoom links to keep them organized<br>
 
 ---
