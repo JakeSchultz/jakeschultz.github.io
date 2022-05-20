@@ -26,6 +26,20 @@
 <br>First Person Bullethell style shooter developed in Unity<br>
 
 ---
+
+### Senior Project | Comorbidity and its Impact on Patients with COVID-19 | Vodafone Group
+[Link to Project Page on School Website](https://csns.cysun.org/department/cs/project/view?id=7873473)<br><br>
+
+[Vodafone Covid Portal](https://stay-fcsd.github.io/vodafone-covid-portal/)<br>
+<img src = "images/CovidPortal.png"/>
+<br>Worked with Vodafone and a team of fellow students to create a web based portal for visualizing Covid 19 data. This portal focuses on Incident Rates, Death Rates, and Vaccination Rates. We levereged JavaScript, the D3.js library to create the visualizations. I used github actions to automate and optimize the data collection process.<br><br>
+[Tableau Covid Dashboard](https://168jonathankan.github.io/COVID-19-Dashboard/index.html)<br>
+<img src = "images/Tableau.PNG"/>
+<br>There is a second site associated with this one that utilized Tableau and python to generate visualizations similar to the previous portal but it contains information on different variants. There is also some data on comorbities compared for the US. <br>
+
+---
+
+---
 {% comment %}
 ---
 - [Project Title](http://project.com)<br>
