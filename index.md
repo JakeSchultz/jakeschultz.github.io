@@ -27,8 +27,8 @@
 
 ---
 
-### Senior Project | Comorbidity and its Impact on Patients with COVID-19 | Vodafone Group
-[Link to Project Page on School Website](https://csns.cysun.org/department/cs/project/view?id=7873473)<br><br>
+### Senior Project | Comorbidity and its Impact on <br><tab>Patients with COVID-19 | Vodafone Group
+[Project Page on School Website](https://csns.cysun.org/department/cs/project/view?id=7873473)<br><br>
 
 [Vodafone Covid Portal](https://stay-fcsd.github.io/vodafone-covid-portal/)<br>
 <img src = "images/CovidPortal.png"/>
